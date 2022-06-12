@@ -40,3 +40,17 @@ p {
     width: auto;
     height: auto;
 }
+
+footer {
+    margin: 1% 0;
+    padding: 0.5%;
+    width: 99%;
+    height: auto;
+    overflow: hidden;
+}
+
+footer h3 {
+    text-align: right;
+    font-weight: 500;
+    width: 100%;
+}
